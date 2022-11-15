@@ -1,0 +1,21 @@
+/* naglowek */
+h1,
+h3 {
+
+    background-color: blue;
+}
+
+
+/* paragraf */
+p {
+    color: red;
+}
+
+/* #naglowek2{ */
+#naglowek2 {
+    color: chartreuse;
+}
+
+/* h1~#naglowek3 {
+    background-color: yellow;
+} */
